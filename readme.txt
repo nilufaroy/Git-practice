@@ -1,2 +1,1 @@
-"My first Git Project"Second line
-Second line
+My first git project
